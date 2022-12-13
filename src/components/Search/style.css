@@ -1,0 +1,5 @@
+.cards {
+  background-image: linear-gradient(rgba(255, 0, 0, 0) 0%, rgba(26, 11, 38, 1) 50%, rgba(75, 55, 113, 1) 100%);
+  --aug-border-all: 2px;
+  --aug-border-bg: linear-gradient(rgba(255, 0, 0, 0) 0%, rgba(140,112,211,1) 75%, rgba(186,178,207,1) 100%);
+}

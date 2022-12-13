@@ -1,0 +1,14 @@
+.topBox {
+  position: relative;
+  background-image: linear-gradient(#8C70D3 10%, #ABA5C9 100%);
+  position: relative;
+  height: 55px;
+  width: 30%;
+  -webkit-clip-path: polygon(0 0, 100% 0, 95% 100%, 5% 100%);
+  clip-path: polygon(0 0, 100% 0, 95% 100%, 5% 100%);    
+}
+
+.switch {
+  z-index: 1;
+  margin-left: 15px;
+}
